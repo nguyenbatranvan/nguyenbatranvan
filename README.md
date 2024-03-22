@@ -6,7 +6,6 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.
 - 🤔 &nbsp; Currently I am a senior in the front-end.
-- 🎓 &nbsp; Studying Software Enginering at Brigham Younh University Idaho.
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
