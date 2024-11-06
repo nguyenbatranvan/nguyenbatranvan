@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 <h2>I'm Van.</h2>
+<p align="center"><img src='https://github-readme-streak-stats.herokuapp.com?user=nguyenbatranvan&theme=onedark'/>
+</p>
 <p align="center"><img src='https://github-readme-stats.vercel.app/api?theme=onedark&username=nguyenbatranvan&rank_icon=percentile&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage'/>
 </p>
 <hr>
