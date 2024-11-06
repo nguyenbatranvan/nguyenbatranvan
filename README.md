@@ -2,7 +2,16 @@
 
 <h2>I'm Van.</h2>
 
+<div style="text-align: center;width:100%"><img align="center" src='https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenbatranvan'/>
+</div>
+<hr/>
+<div style="text-align: center"><img src='https://github-readme-stats.vercel.app/api?theme=radical&username=nguyenbatranvan&rank_icon=percentile&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage'/>
+</div>
+<hr>
 <h3> 💻 &nbsp;About Me </h3>
+
+
+
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.
 - 🤔 &nbsp; Currently I am a senior in the front-end.
